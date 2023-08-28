@@ -7,7 +7,7 @@ import os
 #add the overlay polygon path 
 polyPath="C:/Users/User/Desktop/taita taveta.shp"
 #add the point or clip feature path 
-pointPath='C:/Users/User/Desktop/john makoha\'s assignment/harvard-africover-ke-othertowns-shapefile/AFRICOVER_KE_OTHERTOWNS.shp'
+pointPath='C:/Users/User/Desktop/harvard-africover-ke-othertowns-shapefile/AFRICOVER_KE_OTHERTOWNS.shp'
 # add the output feature path
 clipPath= 'C:/Users/User/Documents/pyclips/clipped1.shp'
 # run the clip 
